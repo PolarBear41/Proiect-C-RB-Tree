@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1640702608 source:d:\proiecte\rb2\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<cstdio>
+	<stdlib.h>
+
